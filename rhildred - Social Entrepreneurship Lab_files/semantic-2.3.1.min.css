@@ -2415,9 +2415,9 @@
  
  .ui.basic.green.button,
  .ui.basic.green.buttons .button {
-     -webkit-box-shadow: 0 0 0 1px #21ba45 inset!important;
-     box-shadow: 0 0 0 1px #21ba45 inset!important;
-     color: #21ba45!important
+     -webkit-box-shadow: 0 0 0 1px rgb(6, 94, 26) inset!important;
+     box-shadow: 0 0 0 1px rgb(6, 94, 26) inset!important;
+     color: rgb(6, 94, 26)!important
  }
  
  .ui.basic.green.button:hover,
@@ -30484,7 +30484,7 @@
  
  .ui.search>.results .result .price {
      float: right;
-     color: #21ba45
+     color: rgb(6, 94, 26)
  }
  
  .ui.search>.results>.message {
