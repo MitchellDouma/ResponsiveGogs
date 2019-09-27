@@ -23980,7 +23980,7 @@
  .ui.card>.content>.description,
  .ui.cards>.card>.content>.description {
      clear: both;
-     color: rgba(0, 0, 0, .68)
+     color: rgb(0, 0, 0)
  }
  
  .ui.card>.content p,
@@ -23996,7 +23996,7 @@
  .ui.card .meta,
  .ui.cards>.card .meta {
      font-size: 1em;
-     color: rgba(0, 0, 0, .4)
+     color: rgb(0, 0, 0)
  }
  
  .ui.card .meta *,
@@ -24029,7 +24029,7 @@
  
  .ui.card>.content>a.header,
  .ui.cards>.card>.content>a.header {
-     color: rgba(0, 0, 0, .85)
+     color: rgb(0, 0, 0)
  }
  
  .ui.card>.content>a.header:hover,
@@ -24039,12 +24039,12 @@
  
  .ui.card .meta>a:not(.ui),
  .ui.cards>.card .meta>a:not(.ui) {
-     color: rgba(0, 0, 0, .4)
+     color: rgb(0, 0, 0)
  }
  
  .ui.card .meta>a:not(.ui):hover,
  .ui.cards>.card .meta>a:not(.ui):hover {
-     color: rgba(0, 0, 0, .87)
+     color: rgb(0, 0, 0)
  }
  
  .ui.card>.button,
@@ -24114,7 +24114,7 @@
      padding: .75em 1em;
      top: 0;
      left: 0;
-     color: rgba(0, 0, 0, .4);
+     color: rgb(0, 0, 0);
      -webkit-box-shadow: none;
      box-shadow: none;
      -webkit-transition: color .1s ease;
@@ -24123,7 +24123,7 @@
  
  .ui.card>.extra a:not(.ui),
  .ui.cards>.card>.extra a:not(.ui) {
-     color: rgba(0, 0, 0, .4)
+     color: rgb(0, 0, 0)
  }
  
  .ui.card>.extra a:not(.ui):hover,
