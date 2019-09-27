@@ -1418,7 +1418,7 @@
      width: 1.78571429em;
      height: 1.78571429em;
      line-height: 1.78571429em;
-     color: rgba(0, 0, 0, .4);
+     color: rgb(0, 0, 0);
      font-style: normal;
      font-weight: 700;
      -webkit-box-shadow: 0 0 0 1px transparent inset;
@@ -1458,6 +1458,7 @@
      display: inline-block;
      border-left: none;
      text-align: right;
+     color: rgb(0, 0, 0);
      padding-right: .75em;
      border-radius: .28571429rem 0 0 .28571429rem
  }
