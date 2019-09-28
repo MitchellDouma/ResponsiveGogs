@@ -369,7 +369,7 @@
  }
  
  a {
-     color: #4183c4;
+     color: #01468b;
      text-decoration: none
  }
  
@@ -495,10 +495,6 @@
      transition: opacity .1s ease, background-color .1s ease, color .1s ease, box-shadow .1s ease, background .1s ease, -webkit-box-shadow .1s ease;
      will-change: '';
      -webkit-tap-highlight-color: transparent
- }
- 
- .website {
-     color: rgb(7, 7, 148);
  }
  
  .ui.button:hover {
