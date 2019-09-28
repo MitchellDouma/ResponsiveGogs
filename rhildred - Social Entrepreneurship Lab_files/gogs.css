@@ -400,6 +400,8 @@ footer {
     clear: both;
     width: 100%;
     color: #000000;
+    bottom: 0;
+    position: aboslute;
 }
 
 footer .container {
