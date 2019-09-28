@@ -290,7 +290,8 @@
  }
  
  html {
-     font-size: 14px
+     font-size: 14px;
+     min-height: 100%;
  }
  
  body {
