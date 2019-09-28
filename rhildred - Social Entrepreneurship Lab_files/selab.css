@@ -1,8 +1,10 @@
-.pages label{
+.pages label {
     padding-right: .5em;
     font-weight: bold;
 }
 
-.pages div{
+.pages div {
     padding-bottom: .5em;
 }
+
+@import url("dark_theme.css");
