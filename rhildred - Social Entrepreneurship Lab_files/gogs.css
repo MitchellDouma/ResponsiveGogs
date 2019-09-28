@@ -401,7 +401,7 @@ footer {
     width: 100%;
     color: #000000;
     bottom: 0;
-    position: fixed;
+    position: relative;
 }
 
 footer .container {
