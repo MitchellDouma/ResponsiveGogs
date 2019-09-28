@@ -497,6 +497,10 @@
      -webkit-tap-highlight-color: transparent
  }
  
+ .website {
+     color: rgb(7, 7, 148);
+ }
+ 
  .ui.button:hover {
      background-color: #cacbcd;
      background-image: none;
